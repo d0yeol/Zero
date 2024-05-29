@@ -5,4 +5,5 @@
 🎵 I'm interseted in Python, AI  
 🍰 Today is my birthday!  
 💖 Love  
-💤 I want sleep
+💤 I want sleep  
+### 1. 취미 업데이트  
