@@ -6,3 +6,4 @@
 🍰 Today is my birthday!  
 💖 Love  
 💤 I want sleep
+### 2. 특기 업데이트
