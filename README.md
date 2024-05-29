@@ -4,3 +4,4 @@
 💙 My hobby is watching a baseball game  
 🎵 I'm interseted in Python, AI  
 🍰 Today is my birthday!
+💖 Love
